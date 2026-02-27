@@ -1,3 +1,6 @@
 [submodule "chat-tcp-client"]
 	path = chat-tcp-client
 	url = https://github.com/Constantin-Stamate/chat-tcp-client
+[submodule "chat-tcp-server"]
+	path = chat-tcp-server
+	url = https://github.com/Constantin-Stamate/chat-tcp-server
